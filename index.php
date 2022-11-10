@@ -8,5 +8,11 @@
 </head>
 <body>
     <p>git vs github!!</p>
+    <p>lista de tarefas<p>
+
+    <ul>
+        <li>enviar emails em php</li>
+        <li>?</li>
+    </ul>
 </body>
 </html>
